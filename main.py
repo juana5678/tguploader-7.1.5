@@ -632,7 +632,7 @@ def onmessage(update,bot:ObigramClient):
 
 
 def main():
-    bot_token = os.environ.get('')
+    bot_token = os.environ.get('vvv')
 
     
     bot = ObigramClient(bot_token)
