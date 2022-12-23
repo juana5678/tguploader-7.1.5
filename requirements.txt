@@ -1,5 +1,5 @@
 requests
-requests[socks]
+
 python-telegram-bot
 bs4
 user_agent
